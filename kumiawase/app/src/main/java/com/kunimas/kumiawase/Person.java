@@ -1,4 +1,4 @@
-package com.kumiawase;
+package com.kunimas.kumiawase;
 
 public class Person
 {
